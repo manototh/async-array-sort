@@ -8,7 +8,7 @@ This is an exercise to solve the classic problem of sorting the elements of an a
 
 To create and sort an array, follow these steps:
 
-1. Create a copy of the file `source\main.js`, and open it with your text editor.
+1. Create a copy of the file `source/main.js`, and open it with your text editor.
 2. At the bottom of the file, delete the example.
 3. Call the `generateAndSortArray` function, specifying the number of elements in the generated array as its parameter.
 
